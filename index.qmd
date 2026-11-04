@@ -2255,8 +2255,6 @@ O objetivo final é criar um <strong>Sistema de Alerta Precoce de Vulnerabilidad
 
 ##  {background-image="images/banner_geotec.jpeg" background-opacity=".12" background-size="cover"}
 
-<br/>
-<br/>
 
 <div style="text-align:center;">
 <img src="images/logo_ufpe_facepe.png" style="width:280px; margin-bottom:15px;"/>
@@ -2269,7 +2267,6 @@ O objetivo final é criar um <strong>Sistema de Alerta Precoce de Vulnerabilidad
 </div>
 
 <br/>
-<br/>
 
 <div style="text-align:center;">
 <h4 style="color:#1a3a5c; font-size:22pt; margin-bottom:4px;"><strong>Prof. Dr. Jodavid de Araújo Ferreira</strong></h4>
@@ -2277,11 +2274,15 @@ O objetivo final é criar um <strong>Sistema de Alerta Precoce de Vulnerabilidad
 <p style="color:#2980b9; font-size:16pt; margin-top:8px;">
 📧 <a href="mailto:jodavid.ferreira@ufpe.br">jodavid.ferreira@ufpe.br</a> &nbsp;|&nbsp; 
 🌐 <a href="https://jodavid.github.io" target="_blank">jodavid.github.io</a> &nbsp;|&nbsp; 
-🐙 <a href="https://github.com/jodavid" target="_blank">github.com/jodavid</a>
+<i class="fab fa-github"><a href="https://github.com/jodavid" target="_blank">github.com/jodavid</a></i>
 </p>
 </div>
 
-<br/>
+
+::: {.mensagem style="margin-top:0em; font-size:0.7em; margin-left:200px;margin-right:100px;"}
+> Feito com auxílio de IA, usando o modelo **Claude Opus 5.5** (Anthropic)
+mas **a responsabilidade pelo conteúdo, pelos dados e pelas referências é do autor**.
+:::
 
 <div style="text-align:center; color:#7f8c8d; font-size:16pt; margin-top:20px;">
 <strong>II GEOTEC 2026</strong> — Encontro de Geotecnologias | IFPB Campus João Pessoa
