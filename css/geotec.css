@@ -1,0 +1,161 @@
+/*
+  CSS para apresentação II GEOTEC 2026 - IFPB Campus João Pessoa
+  Trabalho: Padrões Espaciais das Denúncias do Disque 100 no Nordeste Brasileiro em 2024
+  Autor: Prof. Dr. Jodavid Ferreira (UFPE)
+  Paleta: Azul Marinho Institucional (#1a3a5c) + Destaque Geotecnologias (#2980b9)
+*/
+
+.reveal .footer > * {
+    display: block;
+    position: fixed;
+    bottom: 16px;
+    width: 100%;
+    left: 40px;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 16px;
+    color: #555;
+    z-index: 2;
+}
+
+/* ===== TIPOGRAFIA GERAL ===== */
+p, li {
+  font-size: 20px;
+  color: #2c3e50;
+  line-height: 1.45;
+}
+
+a, a > code {
+  color: #2980b9;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* ===== CABEÇALHOS ===== */
+h1 { color: #1a3a5c; font-weight: 700; }
+h2 { color: #1a3a5c; font-weight: 700; }
+h3 { color: #2c5d8f; font-weight: 600; }
+h4 { font-size: 22px; color: #2980b9; line-height: 110%; font-weight: 500; }
+h5 { color: #3498db; }
+
+/* ===== DESTAQUES ===== */
+strong { color: #0f2c4d; }
+
+/* ===== CLASSES UTILITÁRIAS ===== */
+.blue   { color: #2980b9; font-weight: bold; }
+.navy   { color: #1a3a5c; font-weight: bold; }
+.grey   { color: #7f8c8d; }
+.red    { color: #c0392b; font-weight: bold; }
+.green  { color: #27ae60; font-weight: bold; }
+.orange { color: #d35400; font-weight: bold; }
+.purple { color: #8e44ad; font-weight: bold; }
+.white  { color: white; }
+.black  { color: black; font-weight: bold; }
+.big    { font-size: 1.4em; }
+.small  { font-size: 0.82em; }
+.badge  { display: inline-block; padding: 2px 8px; border-radius: 4px; font-size: 0.8em; font-weight: bold; }
+
+/* ===== BLOCKQUOTE ===== */
+blockquote {
+  border-left: solid 5px #2980b9;
+  padding: 12px 18px;
+  background-color: #f0f6fc;
+  border-radius: 0 8px 8px 0;
+  font-style: italic;
+  color: #34495e;
+}
+
+/* ===== TABELAS ===== */
+table { margin: auto; border-collapse: collapse; width: 95%; }
+table thead th { border-bottom: 2px solid #1a3a5c; background-color: #1a3a5c; color: white; padding: 8px 14px; font-size: 85%; }
+td { padding: 6px 14px; font-size: 82%; border-bottom: 1px solid #e0e0e0; }
+tbody tr:nth-child(even) { background: #f8fafc; }
+tbody tr:nth-child(odd) { background: #ffffff; }
+
+/* ===== CAIXAS DE DESTAQUE ===== */
+.highlight-box {
+  background-color: #f0f6fc;
+  border: 2px solid #2980b9;
+  border-radius: 8px;
+  padding: 14px 18px;
+  margin: 10px 0;
+}
+
+.result-box {
+  background-color: #eafaf1;
+  border: 2px solid #27ae60;
+  border-radius: 8px;
+  padding: 14px 18px;
+  margin: 10px 0;
+}
+
+.warning-box {
+  background-color: #fef9e7;
+  border: 2px solid #f39c12;
+  border-radius: 8px;
+  padding: 14px 18px;
+  margin: 10px 0;
+}
+
+.danger-box {
+  background-color: #fdedec;
+  border: 2px solid #c0392b;
+  border-radius: 8px;
+  padding: 14px 18px;
+  margin: 10px 0;
+}
+
+.info-box {
+  background-color: #f5eef8;
+  border: 2px solid #8e44ad;
+  border-radius: 8px;
+  padding: 14px 18px;
+  margin: 10px 0;
+}
+
+/* ===== CARDS / METRIC BLOCKS ===== */
+.metric-card {
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.08);
+  border-top: 4px solid #2980b9;
+  padding: 15px;
+  text-align: center;
+  margin: 6px;
+}
+.metric-val {
+  font-size: 1.8em;
+  font-weight: 800;
+  color: #1a3a5c;
+  line-height: 1.1;
+}
+.metric-lbl {
+  font-size: 0.85em;
+  color: #666;
+  text-transform: uppercase;
+  margin-top: 5px;
+}
+
+/* ===== CONTRIB ===== */
+.contrib {
+  box-shadow: 2px 3px 6px rgba(0,0,0,0.1);
+  border: 1px solid #dcdde1;
+  background-color: #f8f9fa;
+  border-radius: 8px;
+  padding: 15px;
+}
+
+/* ===== AJUSTES DE ESPAÇAMENTO REVEAL ===== */
+.reveal .slides section {
+  padding: 20px 40px !important;
+  box-sizing: border-box;
+}
+
+.reveal hr {
+  margin-top: 4px;
+  margin-bottom: 12px;
+}

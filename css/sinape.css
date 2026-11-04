@@ -1,0 +1,197 @@
+/*
+  CSS para apresentação SINAPE 2026
+  Classificação de Dados SAR/PolSAR usando TabR e TabNet
+  Autor: Jodavid Ferreira
+  Paleta: Azul Marinho SINAPE (#1a3a5c) + Destaques (#2980b9)
+*/
+
+.reveal .footer > * {
+    display: block;
+    position: fixed;
+    bottom: 18px;
+    width: 100%;
+    left: 50px;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 18px;
+    z-index: 2;
+}
+
+/* ===== FOOTER COM LOGO ===== */
+
+/*.reveal .footer::after {
+  content: "";
+  display: block;
+  /*background-image: url('../images/Logo_SINAPE_2026.png');
+  background-repeat: no-repeat;
+  background-position: right bottom;
+  background-size: 120px;
+  height: 60px;
+  opacity: 0.6;
+} */
+
+/* ===== TIPOGRAFIA GERAL ===== */
+p, li {
+  font-size: 24px;
+  color: #333;
+  line-height: 1.5;
+}
+
+a, a > code {
+  color: #2980b9;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* ===== CABEÇALHOS ===== */
+h1 { color: #1a3a5c; }
+h2 { color: #1a3a5c; }
+h3 { color: #2c5d8f; }
+h4 { font-size: 24px; color: #2980b9; line-height: 110%; }
+h5 { color: #3498db; }
+
+/* ===== NEGRITO ===== */
+strong { color: #042d51; }
+
+/* ===== LAYOUT ===== */
+.remark-slide-content {
+  padding-left: 80px;
+}
+
+.pull-left  { float: left;  width: 47%; }
+.pull-right { float: right; width: 47%; }
+
+/* ===== CLASSES UTILITÁRIAS ===== */
+.blue   { color: #2980b9; font-weight: bold; }
+.navy   { color: #1a3a5c; font-weight: bold; }
+.grey   { color: #666; }
+.red    { color: #c0392b; font-weight: bold; }
+.green  { color: #27ae60; font-weight: bold; }
+.white  { color: white; }
+.black  { color: black; font-weight: bold; }
+.big    { font-size: 1.5em; }
+.small  { font-size: 0.8em; }
+
+/* ===== BLOCKQUOTE ===== */
+blockquote {
+  border-left: solid 5px #2980b9;
+  padding-left: 1em;
+  background-color: #f0f6fc;
+  border-radius: 0 5px 5px 0;
+  padding: 12px 16px;
+}
+
+/* ===== TABELAS ===== */
+table { margin: auto; border-collapse: collapse; }
+table thead th { border-bottom: 2px solid #1a3a5c; background-color: #1a3a5c; color: white; padding: 8px 15px; }
+td { padding: 6px 15px; font-size: 85%; }
+tbody tr:nth-child(even) { background: #f0f6fc; }
+tbody tr:nth-child(odd) { background: #fff; }
+
+/* ===== CAIXAS DE DESTAQUE ===== */
+.highlight-box {
+  background-color: #f0f6fc;
+  border: 2px solid #2980b9;
+  border-radius: 10px;
+  padding: 15px 20px;
+  margin: 10px 0;
+}
+
+.result-box {
+  background-color: #eafaf1;
+  border: 2px solid #27ae60;
+  border-radius: 10px;
+  padding: 15px 20px;
+  margin: 10px 0;
+}
+
+.warning-box {
+  background-color: #fef9e7;
+  border: 2px solid #f39c12;
+  border-radius: 10px;
+  padding: 15px 20px;
+  margin: 10px 0;
+}
+
+/* ===== BLOCOS DE CONTRIBUIÇÃO ===== */
+.contrib {
+  box-shadow: 3px 3px 8px rgba(0,0,0,0.15);
+  border: 1px solid #ccc;
+  width: auto;
+  margin: auto;
+  background-color: #f8f9fa;
+  border-radius: 10px;
+  padding: 20px;
+}
+
+/* ===== CÓDIGO ===== */
+pre, code {
+  white-space: pre !important;
+  overflow-x: hidden !important;
+}
+
+.remark-code-line-highlighted {
+  background-color: #d4e6f1 !important;
+}
+
+div.sourceCode {
+  font-size: 0.85em;
+}
+
+/* ===== SLIDES DE SEÇÃO ===== */
+.section-slide {
+  background-color: #1a3a5c;
+  color: white;
+}
+
+/* ===== FOOTNOTES ===== */
+.footnote {
+  position: absolute;
+  bottom: 2em;
+  padding-right: 4em;
+  font-size: 80%;
+  color: #888;
+}
+
+/* ===== IMPRESSÃO ===== */
+@page { margin: 0; }
+@media print {
+  .remark-slide-scaler {
+    width: 100% !important;
+    height: 100% !important;
+    transform: scale(1) !important;
+    top: 0 !important;
+    left: 0 !important;
+  }
+}
+
+/* ===== IMAGENS ===== */
+img, video, iframe {
+  max-width: 100%;
+}
+
+/* ===== EQUAÇÕES ===== */
+.math-display {
+  font-size: 1.1em;
+}
+
+/* ===== TWO-COLUMN LAYOUT ===== */
+.left-column {
+  color: #777;
+  width: 25%;
+  height: 92%;
+  float: left;
+}
+
+.left-column h2:last-of-type, .left-column h3:last-child {
+  color: #000;
+}
+
+.right-column {
+  width: 70%;
+  float: right;
+  padding-top: 1em;
+}
