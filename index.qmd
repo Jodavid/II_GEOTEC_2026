@@ -110,7 +110,7 @@ Geoprocessamento, análise espacial de áreas, suporte a decisões governamentai
 ::: {.column width="40%"}
 
 <div style="text-align:center;">
-<img src="images/mapa_nordeste_estudo.png" style="width:95%; border-radius:8px; box-shadow:0 3px 8px rgba(0,0,0,0.15);"/>
+<img src="images/mapa_brasil_nordeste_localizacao.png" style="width:82%; border-radius:8px; box-shadow:0 3px 8px rgba(0,0,0,0.15);"/>
 </div>
 
 :::
@@ -145,6 +145,7 @@ Geoprocessamento, análise espacial de áreas, suporte a decisões governamentai
 1. **Introdução e Contextualização**
    - Cenário nacional da violência e marco legal
    - O serviço Disque 100 (Disque Direitos Humanos)
+   - Cenário atual do Disque 100 (2023–2026)
    - O território nordestino e seus paradoxos
 2. **Arcabouço Metodológico e Teórico**
    - Razão de Incidência Espacial (RIE)
@@ -336,6 +337,167 @@ Após triagem e qualificação técnica, as denúncias são despachadas aos órg
 
 ::::
 
+---
+
+##
+<h2 style="color:#1a3a5c;">Panorama Nacional Recente</h2>
+<h4> Disque 100 nos anos 2023–2025</h4>
+<hr style="border-color:#2980b9;"/>
+
+<br/>
+<br/>
+
+:::: {.columns}
+
+::: {.column width="58%"}
+
+<div style="text-align:center;">
+<img src="images/disque100_serie_nacional_2023_2025.png" style="width:100%; border-radius:6px;"/>
+</div>
+
+:::
+
+::: {.column width="40%"}
+
+- **2024 foi o ano recorde:** 657,2 mil denúncias, **+22,6%** em relação a 2023 (536,1 mil).
+- **2025:** 617.837 denúncias e cerca de **4,4 milhões de violações** (dados até 14/12/2025).
+- **Demanda total:** 2.248.408 atendimentos de janeiro a novembro de 2025.
+
+<div class="highlight-box" style="margin-top:12px;">
+<p style="font-size:17px; line-height:1.35; margin:0;">
+<strong>Denúncia ≠ Violação:</strong> uma única denúncia pode reunir múltiplas violações associadas (razão ≈ 7 violações por denúncia em 2025).
+</p>
+</div>
+
+:::
+
+::::
+
+<p style="font-size:13px; color:#7f8c8d; margin-top:4px;">Fontes: MDHC/ONDH (2025); Agência Gov (dez./2025); Poder360 (jan./2025). Balanços posteriores do MDHC revisam 2024 para ≈ 650,4 mil denúncias (painel atualizado continuamente).</p>
+
+---
+
+##
+<h2 style="color:#1a3a5c;">Quem São as Vítimas e Quais as Violações?</h2>
+<h4>Perfil Nacional Segundo os Balanços Oficiais</h4>
+<hr style="border-color:#2980b9;"/>
+
+<br/>
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+- **Grupos vulneráveis mais citados (2024):**
+  - Crianças e adolescentes: **289,4 mil** denúncias.
+  - Pessoas idosas: **179,6 mil**.
+  - Mulheres: **111,6 mil**.
+- **Locus da violação (2024):** na maioria dos casos, a casa da vítima e/ou do suspeito (**301,4 mil** denúncias).
+- **2025:** as principais vítimas concentram-se entre **pessoas idosas, crianças e adolescentes**.
+
+:::
+
+::: {.column width="48%"}
+
+<div class="metric-card" style="border-top-color:#c0392b;">
+<div class="metric-val" style="color:#c0392b;">632.657</div>
+<div class="metric-lbl">Negligência contra a integridade (2025)</div>
+</div>
+
+<div class="metric-card" style="margin-top:8px; border-top-color:#f39c12;">
+<div class="metric-val" style="color:#f39c12;">515.864</div>
+<div class="metric-lbl">Exposição da integridade física a risco à saúde (2025)</div>
+</div>
+
+<div class="metric-card" style="margin-top:8px; border-top-color:#2980b9;">
+<div class="metric-val" style="color:#2980b9;">476.924</div>
+<div class="metric-lbl">Tortura psíquica (2025)</div>
+</div>
+
+:::
+
+::::
+
+<p style="font-size:13px; color:#7f8c8d; margin-top:4px;">Fontes: MDHC/ONDH, balanço 2024 (Poder360, jan./2025) e balanço 2025 (Agência Gov, dez./2025).</p>
+
+---
+
+##
+<h2 style="color:#1a3a5c;">Distribuição Territorial das Denúncias</h2>
+<h4>O Nordeste no Cenário Nacional (2025–2026)</h4>
+<hr style="border-color:#2980b9;"/>
+
+<br/>
+
+:::: {.columns}
+
+::: {.column width="55%"}
+
+<div style="text-align:center;">
+<img src="images/disque100_ranking_uf_2026.png" style="width:100%; border-radius:6px;"/>
+</div>
+
+:::
+
+::: {.column width="43%"}
+
+- **2025:** Bahia (**30.958**) e Pernambuco (**24.365**) no top-10 nacional.
+- **2026 (até 13/set):** PE é o **7º do país** e o **2º do Nordeste**, atrás da BA (≈ 82 denúncias/dia).
+- **PB (2025):** 2ª maior taxa do Nordeste de denúncias envolvendo crianças e adolescentes (**127/100 mil hab.**).
+
+<div class="warning-box" style="margin-top:10px;">
+<p style="font-size:17px; line-height:1.35; margin:0;">
+<strong>Contagens absolutas refletem o porte populacional:</strong> comparações exigem taxas padronizadas (RIE, suavização bayesiana).
+</p>
+</div>
+
+:::
+
+::::
+
+<p style="font-size:13px; color:#7f8c8d; margin-top:4px;">Fontes: Agência Gov (dez./2025); Diario de Pernambuco (set./2026), a partir do painel da ONDH; Jornal da Paraíba / CBN Paraíba (fev./2026).</p>
+
+---
+
+##
+<h2 style="color:#1a3a5c;">Tendências Recentes (2025–2026)</h2>
+<h4>Novos Canais e Novas Demandas</h4>
+<hr style="border-color:#2980b9;"/>
+
+<br/><br/>
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+- **Modernização operacional (2025):** implantação da **nova central de atendimento**, após conclusão do processo licitatório — ampliação da capacidade e redução de filas.
+- **Canais multimodais:** telefone, WhatsApp, Telegram, chat, e-mail e **videochamada em Libras**.
+- **Crescimento do WhatsApp:** 39 mil (2023) → 57 mil (2024) → 81 mil (2025); só no 1º trimestre de 2026, **≈ 37 mil** denúncias.
+
+:::
+
+::: {.column width="48%"}
+
+<div class="danger-box">
+<h4 style="color:#c0392b; margin-top:0;">Violência Política — Eleições 2026</h4>
+<p style="font-size:17px; line-height:1.35; margin:0;">
+<strong>90</strong> denúncias entre 1º e 25/out, contra <strong>20</strong> em todo setembro (<strong>+350%</strong>); os dois dias de votação concentraram 30% dos registros de outubro.
+</p>
+</div>
+
+<div class="info-box" style="margin-top:10px;">
+<h4 style="color:#8e44ad; margin-top:0;">Racismo — 1º semestre de 2026</h4>
+<p style="font-size:17px; line-height:1.35; margin:0;">
+No estado de São Paulo: <strong>646</strong> denúncias (jan.–jun./2026) vs. 482 no mesmo período de 2025 (<strong>+34%</strong>).
+</p>
+</div>
+
+:::
+
+::::
+
+<p style="font-size:13px; color:#7f8c8d; margin-top:4px;">Fontes: MDHC (dez./2025); Agência Brasil (abr./2026 e nov./2026); Agência Gov (out./2026); ACidade ON (jul./2026).</p>
+
 -----
 
 ##
@@ -454,6 +616,7 @@ Esse panorama torna a análise espacial das denúncias ao Disque 100 na região 
 <hr style="border-color:#2980b9;"/>
 
 <br/>
+<br/>
 
 :::: {.columns}
 
@@ -495,6 +658,8 @@ Diante da anonimização estrita e da impossibilidade de identificar renotifica�
 <h2 style="color:#1a3a5c;">Perguntas Centrais da Investigação</h2>
 <hr style="border-color:#2980b9;"/>
 
+<br/>
+
 <div class="contrib">
 
 1. **Existe dependência espacial significativa?**
@@ -524,6 +689,8 @@ Diante da anonimização estrita e da impossibilidade de identificar renotifica�
 <h4>Metodológica Integrada</h4>
 <hr style="border-color:#2980b9;"/>
 
+<br/>
+
 <div style="text-align:center;">
 <img src="images/metodologia_fluxograma.png" style="width:72%; border-radius:6px; box-shadow:0 3px 10px rgba(0,0,0,0.12);"/>
 </div>
@@ -536,8 +703,9 @@ Esteira analítica sequencial: integração do dado bruto ao diagnóstico de con
 
 ##
 <h2 style="color:#1a3a5c;">O Desafio de Pequenas Áreas</h2>
-<h4>(Small Area Problem)</h4>
 <hr style="border-color:#2980b9;"/>
+
+<br/>
 
 :::: {.columns}
 
@@ -576,6 +744,8 @@ O <strong>Estimador Bayesiano Empírico Local</strong> opera um efeito de <em>sh
 <h2 style="color:#1a3a5c;">Razão de Incidência Espacial (RIE)</h2>
 <hr style="border-color:#2980b9;"/>
 
+<br/>
+
 A **Razão de Incidência Espacial (RIE)** é uma medida padronizada de risco relativo empírico que compara a incidência local observada na sub-região $i$ com a incidência global da macrorregião:
 
 <br/>
@@ -600,6 +770,8 @@ onde:
 <h2 style="color:#1a3a5c;">Interpretação Cartográfica da RIE</h2>
 <hr style="border-color:#2980b9;"/>
 
+<br/>
+
 :::: {.columns}
 
 ::: {.column width="60%"}
@@ -615,6 +787,8 @@ onde:
 :::
 
 ::: {.column width="38%"}
+
+<br/>
 
 <div class="highlight-box">
 <h4 style="color:#1a3a5c; margin-top:0;">Vantagem da RIE</h4>
@@ -637,11 +811,13 @@ Permite comparar municípios de portes muito distintos — como capitais e cidad
 <h2 style="color:#1a3a5c;">Matriz de Pesos Espaciais ($\mathbf{W}$)</h2>
 <hr style="border-color:#2980b9;"/>
 
+<br/>
+
 Para modelar a dependência espacial entre os $1.793$ municípios, constrói-se uma matriz de vizinhança espacial $\mathbf{W} \in \mathbb{R}^{m \times m}$:
 
 :::: {.columns}
 
-::: {.column width="55%"}
+::: {.column width="53%"}
 
 - **Critério de Contiguidade de Primeira Ordem por Arestas e Vértices (*Queen*):**
   - Dois municípios $i$ e $j$ são considerados vizinhos se compartilham qualquer ponto de fronteira comum (arestas ou vértices):
@@ -654,7 +830,10 @@ Para modelar a dependência espacial entre os $1.793$ municípios, constrói-se 
 
 :::
 
-::: {.column width="43%"}
+::: {.column width="44%"}
+
+<br/>
+<br/>
 
 <div class="result-box">
 <h4 style="color:#27ae60; margin-top:0;">Arestas e vértices vs. apenas arestas</h4>
@@ -672,6 +851,8 @@ O critério por arestas e vértices (<em>Queen</em>) considera vizinhos também 
 ##
 <h2 style="color:#1a3a5c;">Índice I de Moran Global</h2>
 <hr style="border-color:#2980b9;"/>
+
+<br/>
 
 O **Índice I de Moran Global** (Moran, 1950) mede o grau de autocorrelação espacial global de uma variável contínua ou de contagem na malha territorial:
 
@@ -697,6 +878,8 @@ onde:
 <h2 style="color:#1a3a5c;">Teste de Hipóteses e</h2>
 <h4>Inferência do Moran Global</h4>
 <hr style="border-color:#2980b9;"/>
+
+<br/>
 
 :::: {.columns}
 
@@ -734,6 +917,8 @@ onde:
 ##
 <h2 style="color:#1a3a5c;">Índice de Moran Local (LISA)</h2>
 <hr style="border-color:#2980b9;"/>
+
+<br/>
 
 Proposto por Anselin (1995), o **LISA** (*Local Indicators of Spatial Association*) decompõe o índice global para identificar a contribuição individual de cada município na formação de clusters espaciais:
 
@@ -778,6 +963,8 @@ $$
 <h4>Moran Scatterplot</h4>
 <hr style="border-color:#2980b9;"/>
 
+<br/>
+
 :::: {.columns}
 
 ::: {.column width="50%"}
@@ -810,6 +997,8 @@ $$
 <h2 style="color:#1a3a5c;">Estimador Bayesiano Empírico Local</h2>
 <h4>EBEL</h4>
 <hr style="border-color:#2980b9;"/>
+
+<br/><br/>
 
 :::: {.columns}
 
@@ -848,6 +1037,8 @@ Reduz a instabilidade das taxas e os falsos positivos associados a populações 
 <h2 style="color:#1a3a5c;">Dedução Matemática do Estimador EBEL</h2>
 <hr style="border-color:#2980b9;"/>
 
+<br/>
+
 O estimador da taxa suavizada para o município $i$, denotado por $\hat{\theta}_i$, é dado pela combinação convexa:
 
 <br/>
@@ -878,6 +1069,8 @@ com $r_j = y_j / n_j$ a taxa bruta no município $j$ e $\bar{n}_i$ a população
 ##
 <h2 style="color:#1a3a5c;">Varredura Scan Espacial de Kulldorff</h2>
 <hr style="border-color:#2980b9;"/>
+
+<br/><br/>
 
 :::: {.columns}
 
@@ -910,6 +1103,8 @@ com $r_j = y_j / n_j$ a taxa bruta no município $j$ e $\bar{n}_i$ a população
 <h4>Simulação de Monte Carlo</h4>
 <hr style="border-color:#2980b9;"/>
 
+<br/>
+
 Sob a hipótese nula $H_0$, o risco de uma denúncia é constante em todo o Nordeste ($p = q$). Sob $H_1$, o risco dentro da janela circular $Z$ é superior ao risco externo ($p > q$).
 
 A **Razão de Verossimilhança (LRR)** sob o modelo Poisson é calculada para cada círculo candidato $Z$:
@@ -937,74 +1132,57 @@ onde:
 <h4>Panorama das 110.278 Denúncias</h4>
 <hr style="border-color:#2980b9;"/>
 
-<div class="contrib">
-<table style="width:100%; font-size:18px;">
-<thead>
-<tr>
-<th>Dimensão Analisada</th>
-<th>Categoria Predominante</th>
-<th>Percentual / Valor</th>
-<th>Implicação Geotecnológica e Social</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><strong>Volume Geral</strong></td>
-<td>Total de Denúncias no Nordeste (2024)</td>
-<td><strong>110.278 registros</strong></td>
-<td>Média de ~61,5 denúncias por município</td>
-</tr>
-<tr>
-<td><strong>Denunciante</strong></td>
-<td>Terceiros (vizinhos, familiares, agentes)</td>
-<td><strong>85,22%</strong></td>
-<td>Própria vítima: 14,64% das denúncias</td>
-</tr>
-<tr>
-<td><strong>Canal de Acesso</strong></td>
-<td>Ligação Telefônica Convencional</td>
-<td><strong>90,86%</strong></td>
-<td>WhatsApp: 8,20%; outros canais: 0,94%</td>
-</tr>
-<tr>
-<td><strong>Pico Diário</strong></td>
-<td>Horário Comercial (Pico às 10h da manhã)</td>
-<td><strong>08h às 18h</strong></td>
-<td>Menor volume registrado às 05h da manhã</td>
-</tr>
-<tr>
-<td><strong>Dinâmica Semanal</strong></td>
-<td>Dias Úteis (Segunda a Sexta-feira)</td>
-<td><strong>80,5%</strong></td>
-<td>Redução no sábado (10,7%) e no domingo (8,8%)</td>
-</tr>
-<tr>
-<td><strong>Vítimas Menores</strong></td>
-<td>0 a 17 anos (bebês, crianças e adolescentes)</td>
-<td><strong>46,74%</strong></td>
-<td>Soma das faixas até 2, 3–11 e 12–17 anos</td>
-</tr>
-<tr>
-<td><strong>Vítimas Idosas</strong></td>
-<td>60 a 90+ anos de idade</td>
-<td><strong>33,81%</strong></td>
-<td>Faixa etária individual mais frequente</td>
-</tr>
-<tr>
-<td><strong>Local do Fato</strong></td>
-<td>Casa onde reside a vítima (com ou sem o suspeito)</td>
-<td><strong>79,33%</strong></td>
-<td>48,90% na casa da vítima e do suspeito</td>
-</tr>
-<tr>
-<td><strong>Tipo de Violação</strong></td>
-<td>Violação contra a Integridade Física</td>
-<td><strong>36,57%</strong></td>
-<td>Seguida da Integridade Psíquica (33,48%)</td>
-</tr>
-</tbody>
-</table>
+<br/>
+<br/>
+
+<div style="display:grid; grid-template-columns:repeat(3,1fr); gap:12px 16px; margin-top:6px;">
+<div style="background:#fff; border-radius:8px; border-left:7px solid #2980b9; box-shadow:0 2px 6px rgba(0,0,0,0.10); padding:8px 14px;">
+<div style="font-size:36px; font-weight:800; color:#2980b9; line-height:1.1;">110.278</div>
+<div style="font-size:19px; font-weight:700; color:#1a3a5c; line-height:1.25;">denúncias no Nordeste (2024)</div>
+<div style="font-size:16px; color:#555; line-height:1.3; margin-top:2px;">≈ 61,5 por município</div>
 </div>
+<div style="background:#fff; border-radius:8px; border-left:7px solid #2980b9; box-shadow:0 2px 6px rgba(0,0,0,0.10); padding:8px 14px;">
+<div style="font-size:36px; font-weight:800; color:#2980b9; line-height:1.1;">85,22%</div>
+<div style="font-size:19px; font-weight:700; color:#1a3a5c; line-height:1.25;">feitas por terceiros</div>
+<div style="font-size:16px; color:#555; line-height:1.3; margin-top:2px;">própria vítima: 14,64%</div>
+</div>
+<div style="background:#fff; border-radius:8px; border-left:7px solid #2980b9; box-shadow:0 2px 6px rgba(0,0,0,0.10); padding:8px 14px;">
+<div style="font-size:36px; font-weight:800; color:#2980b9; line-height:1.1;">90,86%</div>
+<div style="font-size:19px; font-weight:700; color:#1a3a5c; line-height:1.25;">por ligação telefônica</div>
+<div style="font-size:16px; color:#555; line-height:1.3; margin-top:2px;">WhatsApp: 8,20% · outros: 0,94%</div>
+</div>
+<div style="background:#fff; border-radius:8px; border-left:7px solid #d35400; box-shadow:0 2px 6px rgba(0,0,0,0.10); padding:8px 14px;">
+<div style="font-size:36px; font-weight:800; color:#d35400; line-height:1.1;">10h</div>
+<div style="font-size:19px; font-weight:700; color:#1a3a5c; line-height:1.25;">pico diário de registros</div>
+<div style="font-size:16px; color:#555; line-height:1.3; margin-top:2px;">concentração entre 8h e 18h; mínimo às 5h</div>
+</div>
+<div style="background:#fff; border-radius:8px; border-left:7px solid #d35400; box-shadow:0 2px 6px rgba(0,0,0,0.10); padding:8px 14px;">
+<div style="font-size:36px; font-weight:800; color:#d35400; line-height:1.1;">80,5%</div>
+<div style="font-size:19px; font-weight:700; color:#1a3a5c; line-height:1.25;">registradas em dias úteis</div>
+<div style="font-size:16px; color:#555; line-height:1.3; margin-top:2px;">sábado: 10,7% · domingo: 8,8%</div>
+</div>
+<div style="background:#fff; border-radius:8px; border-left:7px solid #d35400; box-shadow:0 2px 6px rgba(0,0,0,0.10); padding:8px 14px;">
+<div style="font-size:36px; font-weight:800; color:#d35400; line-height:1.1;">79,33%</div>
+<div style="font-size:19px; font-weight:700; color:#1a3a5c; line-height:1.25;">na casa onde a vítima reside</div>
+<div style="font-size:16px; color:#555; line-height:1.3; margin-top:2px;">48,90% com vítima e suspeito no mesmo domicílio</div>
+</div>
+<div style="background:#fff; border-radius:8px; border-left:7px solid #c0392b; box-shadow:0 2px 6px rgba(0,0,0,0.10); padding:8px 14px;">
+<div style="font-size:36px; font-weight:800; color:#c0392b; line-height:1.1;">46,74%</div>
+<div style="font-size:19px; font-weight:700; color:#1a3a5c; line-height:1.25;">vítimas de 0 a 17 anos</div>
+<div style="font-size:16px; color:#555; line-height:1.3; margin-top:2px;">bebês, crianças e adolescentes</div>
+</div>
+<div style="background:#fff; border-radius:8px; border-left:7px solid #c0392b; box-shadow:0 2px 6px rgba(0,0,0,0.10); padding:8px 14px;">
+<div style="font-size:36px; font-weight:800; color:#c0392b; line-height:1.1;">33,81%</div>
+<div style="font-size:19px; font-weight:700; color:#1a3a5c; line-height:1.25;">vítimas com 60 anos ou mais</div>
+<div style="font-size:16px; color:#555; line-height:1.3; margin-top:2px;">faixa etária isolada mais frequente</div>
+</div>
+<div style="background:#fff; border-radius:8px; border-left:7px solid #c0392b; box-shadow:0 2px 6px rgba(0,0,0,0.10); padding:8px 14px;">
+<div style="font-size:36px; font-weight:800; color:#c0392b; line-height:1.1;">36,57%</div>
+<div style="font-size:19px; font-weight:700; color:#1a3a5c; line-height:1.25;">violação à integridade física</div>
+<div style="font-size:16px; color:#555; line-height:1.3; margin-top:2px;">seguida da integridade psíquica: 33,48%</div>
+</div>
+</div>
+<p style="font-size:15px; color:#555; margin-top:8px; margin-bottom:0;"><span style="color:#2980b9; font-weight:700;">&#9632;</span> Acesso ao serviço &nbsp;&nbsp; <span style="color:#d35400; font-weight:700;">&#9632;</span> Temporalidade e local &nbsp;&nbsp; <span style="color:#c0392b; font-weight:700;">&#9632;</span> Perfil e violações</p>
 
 ---
 
@@ -1012,6 +1190,8 @@ onde:
 <h2 style="color:#1a3a5c;">Dinâmica Temporal</h2>
 <h4>A Rotina das Notificações</h4>
 <hr style="border-color:#2980b9;"/>
+
+<br/>
 
 :::: {.columns}
 
@@ -1051,6 +1231,8 @@ onde:
 <h4>Denunciantes e Canais</h4>
 <hr style="border-color:#2980b9;"/>
 
+<br/>
+
 :::: {.columns}
 
 ::: {.column width="55%"}
@@ -1063,6 +1245,7 @@ onde:
 
 ::: {.column width="43%"}
 
+<br/>
 
 - **85,22% feitas por Terceiros:**
   - Evidencia o papel da rede comunitária, de profissionais e de vizinhos na notificação.
@@ -1125,6 +1308,8 @@ A maior parte das denúncias ao Disque 100 envolve indivíduos nos extremos da p
 <h2 style="color:#1a3a5c;">Perfil dos Suspeitos</h2>
 <h4>Características dos Suspeitos</h4>
 <hr style="border-color:#2980b9;"/>
+
+<br/><br/>
 
 :::: {.columns}
 
@@ -1288,6 +1473,8 @@ Rejeição da hipótese nula de aleatoriedade espacial ao nível de 1% de signif
 <h2 style="color:#1a3a5c;">Mapeamento dos Clusters Locais LISA</h2>
 <hr style="border-color:#2980b9;"/>
 
+<br/>
+
 :::: {.columns}
 
 ::: {.column width="52%"}
@@ -1324,6 +1511,7 @@ Rejeição da hipótese nula de aleatoriedade espacial ao nível de 1% de signif
 <h4>Litoral vs. Interior Ocidental</h4>
 <hr style="border-color:#2980b9;"/>
 
+<br/>
 
 :::: {.columns}
 
@@ -1361,6 +1549,8 @@ Rejeição da hipótese nula de aleatoriedade espacial ao nível de 1% de signif
 <h2 style="color:#1a3a5c;">Razão de Incidência Espacial no Nordeste</h2>
 <hr style="border-color:#2980b9;"/>
 
+<br/>
+
 :::: {.columns}
 
 ::: {.column width="50%"}
@@ -1393,6 +1583,8 @@ Rejeição da hipótese nula de aleatoriedade espacial ao nível de 1% de signif
 <h2 style="color:#1a3a5c;">O Caso Extremo de Salgadinho (PB)</h2>
 <h4>Análise de um Valor Extremo</h4>
 <hr style="border-color:#2980b9;"/>
+
+<br/>
 
 :::: {.columns}
 
@@ -1469,52 +1661,71 @@ Mesmo após a suavização bayesiana empírica local, Salgadinho manteve a maior
 <h4>RIE Bruta vs. Taxa Suavizada Bayesiana</h4>
 <hr style="border-color:#2980b9;"/>
 
-<br/>
+::::: {style="display:grid; grid-template-columns:1fr 190px 1fr; gap:7px 10px; margin-top:4px;"}
 
-<div class="contrib" style="margin-top:15px;">
-<table style="width:100%; text-align:center; font-size:18px;">
-<thead>
-<tr>
-<th>Propriedade Metodológica</th>
-<th>Razão de Incidência Espacial (RIE)</th>
-<th>Taxa Suavizada Bayesiana (EBEL)</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><strong>Natureza do Cálculo</strong></td>
-<td>Razão determinística direta ($r_i / r_{\text{global}}$)</td>
-<td>Média a posteriori ponderada ($w_i r_i + (1-w_i)\bar{r}_i$)</td>
-</tr>
-<tr>
-<td><strong>Sensibilidade a Pequenas Populações</strong></td>
-<td>Extremamente alta (sensível a ruído amostral)</td>
-<td>Controlada via <em>shrinkage</em> da vizinhança</td>
-</tr>
-<tr>
-<td><strong>Incorporação da Geografia</strong></td>
-<td>Apenas comparação pontual com o todo</td>
-<td>Uso explícito da topologia da vizinhança ($V_i$)</td>
-</tr>
-<tr>
-<td><strong>Municípios em Alerta no Nordeste</strong></td>
-<td>52 municípios com RIE $> 2,0$</td>
-<td>311 municípios com Taxa $> 2,0$ por mil hab.</td>
-</tr>
-<tr>
-<td><strong>Papel na Gestão Pública</strong></td>
-<td>Identificação rápida de picos e anomalias</td>
-<td>Estimação mais estável da incidência</td>
-</tr>
-</tbody>
-</table>
+<div style="text-align:right; font-size:22px; font-weight:800; color:#2980b9;">RIE (bruta)</div>
+<div></div>
+<div style="text-align:left; font-size:22px; font-weight:800; color:#8e44ad;">EBEL (suavizada)</div>
+
+::: {.cmp-cell style="background:#2980b914; border-radius:6px; padding:6px 12px; font-size:19px; line-height:1.3; text-align:right; display:flex; align-items:center; justify-content:flex-end;"}
+Razão direta: $r_i \,/\, r_{\text{global}}$
+:::
+
+::: {.cmp-cell style="background:#1a3a5c; color:white; border-radius:16px; padding:4px 8px; font-size:16px; font-weight:700; text-align:center; display:flex; align-items:center; justify-content:center; line-height:1.2;"}
+<span style="color: #fff;">Cálculo</span>
+:::
+
+::: {.cmp-cell style="background:#8e44ad14; border-radius:6px; padding:6px 12px; font-size:19px; line-height:1.3; text-align:left; display:flex; align-items:center; justify-content:flex-start;"}
+Média ponderada: $w_i r_i + (1-w_i)\,\bar{r}_i$
+:::
+
+::: {.cmp-cell style="background:#2980b914; border-radius:6px; padding:6px 12px; font-size:19px; line-height:1.3; text-align:right; display:flex; align-items:center; justify-content:flex-end;"}
+Muito sensível ao ruído amostral
+:::
+
+::: {.cmp-cell style="background:#1a3a5c; color:#fff; border-radius:16px; padding:4px 8px; font-size:16px; font-weight:700; text-align:center; display:flex; align-items:center; justify-content:center; line-height:1.2;"}
+<span style="color: #fff;">Pequenas populações</span>
+:::
+
+::: {.cmp-cell style="background:#8e44ad14; border-radius:6px; padding:6px 12px; font-size:19px; line-height:1.3; text-align:left; display:flex; align-items:center; justify-content:flex-start;"}
+Estabilizada por *shrinkage* para a vizinhança
+:::
+
+::: {.cmp-cell style="background:#2980b914; border-radius:6px; padding:6px 12px; font-size:19px; line-height:1.3; text-align:right; display:flex; align-items:center; justify-content:flex-end;"}
+Compara cada município com o total da região
+:::
+
+::: {.cmp-cell style="background:#1a3a5c; color:#fff; border-radius:16px; padding:4px 8px; font-size:16px; font-weight:700; text-align:center; display:flex; align-items:center; justify-content:center; line-height:1.2;"}
+<span style="color: #fff;">Uso da geografia</span>
+:::
+
+::: {.cmp-cell style="background:#8e44ad14; border-radius:6px; padding:6px 12px; font-size:19px; line-height:1.3; text-align:left; display:flex; align-items:center; justify-content:flex-start;"}
+Usa a vizinhança $V_i$ de cada município
+:::
+
+::: {.cmp-cell style="background:#2980b914; border-radius:6px; padding:6px 12px; font-size:19px; line-height:1.3; text-align:right; display:flex; align-items:center; justify-content:flex-end;"}
+Triagem rápida de picos e anomalias
+:::
+
+::: {.cmp-cell style="background:#1a3a5c; color:#fff; border-radius:16px; padding:4px 8px; font-size:16px; font-weight:700; text-align:center; display:flex; align-items:center; justify-content:center; line-height:1.2;"}
+<span style="color: #fff;">Papel na gestão</span>
+:::
+
+::: {.cmp-cell style="background:#8e44ad14; border-radius:6px; padding:6px 12px; font-size:19px; line-height:1.3; text-align:left; display:flex; align-items:center; justify-content:flex-start;"}
+Estimativa estável para mapas temáticos
+:::
+
+:::::
+
+<div style="display:grid; grid-template-columns:repeat(4,1fr); gap:12px; margin-top:14px;">
+<div style="background:#fff; border-radius:8px; border-top:5px solid #2980b9; box-shadow:0 2px 6px rgba(0,0,0,0.10); padding:6px 10px; text-align:center;"><div style="font-size:32px; font-weight:800; color:#2980b9; line-height:1.1;">52</div><div style="font-size:16px; color:#444; line-height:1.25;">municípios com RIE &gt; 2</div></div>
+<div style="background:#fff; border-radius:8px; border-top:5px solid #2980b9; box-shadow:0 2px 6px rgba(0,0,0,0.10); padding:6px 10px; text-align:center;"><div style="font-size:32px; font-weight:800; color:#2980b9; line-height:1.1;">12,9</div><div style="font-size:16px; color:#444; line-height:1.25;">RIE máxima (Salgadinho-PB)</div></div>
+<div style="background:#fff; border-radius:8px; border-top:5px solid #8e44ad; box-shadow:0 2px 6px rgba(0,0,0,0.10); padding:6px 10px; text-align:center;"><div style="font-size:32px; font-weight:800; color:#8e44ad; line-height:1.1;">311</div><div style="font-size:16px; color:#444; line-height:1.25;">municípios com taxa &gt; 2 por mil hab.</div></div>
+<div style="background:#fff; border-radius:8px; border-top:5px solid #8e44ad; box-shadow:0 2px 6px rgba(0,0,0,0.10); padding:6px 10px; text-align:center;"><div style="font-size:32px; font-weight:800; color:#8e44ad; line-height:1.1;">24,27</div><div style="font-size:16px; color:#444; line-height:1.25;">taxa máxima por mil hab. (Salgadinho-PB)</div></div>
 </div>
 
-<br/>
-
-
-<div class="highlight-box">
-<strong>Conclusão Comparativa:</strong> A RIE é uma medida empírica sensível a variações locais, enquanto o Estimador Bayesiano atua como um suavizador espacial, conferindo maior estabilidade aos mapas temáticos.
+<div class="highlight-box" style="margin-top:12px; font-size:18px; padding:8px 14px;">
+<strong>Síntese:</strong> a RIE evidencia anomalias locais, mas oscila em municípios pequenos; o EBEL troca parte desse ruído por estabilidade espacial. As contagens não são diretamente comparáveis: a RIE é uma razão adimensional, e o EBEL, uma taxa por mil habitantes.
 </div>
 
 ---
@@ -1557,6 +1768,8 @@ Mesmo após a suavização bayesiana empírica local, Salgadinho manteve a maior
 <h4>Por que Não Há Clusters no Oeste?</h4>
 <hr style="border-color:#2980b9;"/>
 
+<br/>
+
 <div class="warning-box">
 <h3 style="color:#f39c12; margin-top:0;">Ausência de Aglomerados Significativos no Oeste</h3>
 <p style="font-size:19px; line-height:1.5;">
@@ -1564,6 +1777,7 @@ Um dos resultados da varredura Scan é a <strong>ausência de municípios signif
 </p>
 </div>
 
+<br/>
 
 :::: {.columns}
 
@@ -1638,6 +1852,8 @@ Dentre os 49 municípios da interseção tríplice, **6 possuem população supe
 :::: {.columns}
 
 ::: {.column width="50%"}
+
+<br/>
 
 <div class="contrib">
 <ol style="font-size:20px; line-height:1.6; margin-bottom:0;">
@@ -1911,6 +2127,8 @@ O dado ganha vida quando associado às coordenadas geográficas da malha territo
 <h4>e o Dilema da Subnotificação</h4>
 <hr style="border-color:#2980b9;"/>
 
+<br/>
+
 :::: {.columns}
 
 ::: {.column width="52%"}
@@ -1930,6 +2148,8 @@ O dado ganha vida quando associado às coordenadas geográficas da malha territo
 :::
 
 ::: {.column width="45%"}
+
+<br/>
 
 <div class="warning-box">
 <h4 style="color:#f39c12; margin-top:0;">Subnotificação e Alocação de Recursos</h4>
@@ -1951,6 +2171,8 @@ Alocar recursos apenas onde há denúncias registradas pode reforçar a baixa co
 ##
 <h2 style="color:#1a3a5c;">Alocação de Equipamentos Públicos</h2>
 <hr style="border-color:#2980b9;"/>
+
+<br/>
 
 Com base nos **49 municípios** identificados pela convergência dos métodos, sugerem-se diretrizes de planejamento territorial:
 
@@ -1983,7 +2205,7 @@ Com base nos **49 municípios** identificados pela convergência dos métodos, s
 
 ::::
 
----
+<!-- ---
 
 ##
 <h2 style="color:#1a3a5c;">Arquitetura Computacional</h2>
@@ -2044,7 +2266,7 @@ scan_res <- kulldorff(geo = centroides, cases = malha_ne$denuncias,
 
 ::::
 
----
+--- -->
 
 ##
 <h2 style="color:#1a3a5c;">Limitações Metodológicas do Estudo</h2>
@@ -2211,6 +2433,26 @@ O objetivo final é criar um <strong>Sistema de Alerta Precoce de Vulnerabilidad
 - **LUCENA, S. E. F.; MORAES, R. M.** Detecção de agrupamentos espaço-temporais para identificação de áreas de risco de homicídios por arma branca em João Pessoa, PB. *Boletim de Ciências Geodésicas*, v. 18, n. 4, p. 605-623, 2012.
 - **NEIVAS, G. S.; BAPTISTA, A. C.** Análise exploratória de dados espaciais da violência contra LGBTQIA+ no Brasil. *Revista Brasileira de Cartografia*, v. 74, n. 1, p. 159-173, 2022.
 - **PONTES, C. F.** Análise Espacial e Espaço-Temporal da COVID-19 no Estado da Paraíba. *Revista Espaço & Geografia*, v. 26, 2023.
+
+</div>
+
+---
+
+##
+<h2 style="color:#1a3a5c;">Referências — Cenário Atual do Disque 100</h2>
+<hr style="border-color:#2980b9;"/>
+
+<div style="font-size:17px; line-height:1.45;">
+
+- **BRASIL. MDHC.** Disque 100 registra mais de 2 milhões de atendimentos até novembro de 2025 e mantém protagonismo no enfrentamento às violações de direitos humanos. Brasília: MDHC, dez. 2025. Disponível em: gov.br/mdh.
+- **AGÊNCIA GOV.** Disque 100 registra mais de 2 milhões de atendimentos até novembro de 2025. Brasília: EBC, dez. 2025.
+- **PODER360.** Disque 100 registra recorde de 657 mil denúncias. Brasília, 8 jan. 2025.
+- **AGÊNCIA BRASIL.** Ano já tem quase 37 mil denúncias feitas pelo Disque 100 no WhatsApp. Radioagência Nacional, abr. 2026.
+- **AGÊNCIA GOV.** Disque 100 teve 350% de aumento nas denúncias de violência política durante as eleições. Brasília: EBC, out. 2026.
+- **AGÊNCIA BRASIL.** Denúncias de violência política quadriplicam em outubro no Disque 100. Brasília: EBC, nov. 2026.
+- **DIARIO DE PERNAMBUCO.** Pernambuco é o sétimo estado do Brasil com mais denúncias de violações dos direitos humanos. Recife, set. 2026.
+- **JORNAL DA PARAÍBA.** Paraíba tem a 2ª maior taxa de denúncias de violência contra crianças e adolescentes no Nordeste. João Pessoa, 20 fev. 2026.
+- **ACIDADE ON.** Denúncias de racismo crescem 56% em Campinas no 1º semestre de 2026. Campinas, jul. 2026.
 
 </div>
 

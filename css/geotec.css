@@ -163,3 +163,6 @@ tbody tr:nth-child(odd) { background: #ffffff; }
   margin-top: 4px;
   margin-bottom: 12px;
 }
+
+/* Slide "Comparação" (RIE vs. EBEL): remove margem dos parágrafos nas células */
+.reveal .cmp-cell p { margin: 0; }
